@@ -7,7 +7,7 @@ int main(int argc, char const *argv[])
 fun();
 return 0;
 }
- void fun()
+ inline void fun()
  {
  cout<< "Thank You !! Visit again ";
  }

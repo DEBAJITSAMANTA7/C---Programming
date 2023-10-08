@@ -1,4 +1,4 @@
-//  Polimorphism and function overloading 
+//  Polimorphism-->  function overloading 
 using namespace std;
 #include <iostream>
 int add (int x, int y);
